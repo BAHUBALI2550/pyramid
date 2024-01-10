@@ -1,2 +1,2 @@
 # pyramid
-pyramid_devlopers
+pyramid_developers
